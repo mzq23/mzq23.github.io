@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on MZQ的博客</title>
+    <link>https://mzq23.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on MZQ的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>MZQ</copyright>
+    <lastBuildDate>Sun, 27 Sep 2026 12:00:17 +0800</lastBuildDate>
+    <atom:link href="https://mzq23.github.io/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>260925_中秋总结</title>
+      <link>https://mzq23.github.io/p/260925_%E4%B8%AD%E7%A7%8B%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Sun, 27 Sep 2026 12:00:17 +0800</pubDate>
+      <guid>https://mzq23.github.io/p/260925_%E4%B8%AD%E7%A7%8B%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;h2 id=&#34;中秋特辑&#34;&gt;中秋特辑&lt;/h2&gt;&#xA;&lt;p&gt;今天是中秋节，上午和家里通了电话。下午科研了一会儿。晚上看了杜琪峰导演的 &lt;strong&gt;PTU&lt;/strong&gt;，经典、好看。晚饭是辣条加泡面，给我吃晕碳了（不知道为什么，一吃泡面就晕碳）。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于廉价自行车</title>
+      <link>https://mzq23.github.io/p/%E5%85%B3%E4%BA%8E%E5%BB%89%E4%BB%B7%E8%87%AA%E8%A1%8C%E8%BD%A6/</link>
+      <pubDate>Mon, 21 Sep 2026 09:50:58 +0800</pubDate>
+      <guid>https://mzq23.github.io/p/%E5%85%B3%E4%BA%8E%E5%BB%89%E4%BB%B7%E8%87%AA%E8%A1%8C%E8%BD%A6/</guid>
+      <description>&lt;p&gt;开学后在网上买了个通勤自行车，200多，基本是最便宜的那一档。不出意外，陆陆续续开始出现问题。&lt;/p&gt;&#xA;&lt;p&gt;首先是难蹬，骑起来费劲。刚开始我以为是刹车的问题。这种单车的后刹车是圈刹，也就是有一圈刹车条卷在后轮刹车盘上。不捏刹车时刹车条与刹车盘之间有间隙，所以没有摩擦力；捏下刹车，刹车条会被拉紧，贴上刹车盘，摩擦力变大。所以说正常的刹车条和刹车盘在不捏刹车时是有一段间隙的，但我这个两者中间的一段有一点接触，感觉是有摩擦力的。这可能是难骑的原因之一。还有一个原因是确定的——轮胎气不够。这个车的轮胎必须打满气才好骑一点，但打满后漏气快，基本要四五天打一次气。综合来看，不如加点钱买个好点的车，或者把家里的山地车运过来。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>博客更新</title>
+      <link>https://mzq23.github.io/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</link>
+      <pubDate>Mon, 14 Sep 2026 17:44:51 +0800</pubDate>
+      <guid>https://mzq23.github.io/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0-2026/</guid>
+      <description>&lt;p&gt;本次更新内容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;主题更换为 Tarski（参考陶哲轩博客）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;更新步骤整合为快捷方式 .bat ，一键更新博客&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“日期”无需手动输入，编辑完成后自动填入&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
